@@ -1,2 +1,2 @@
 # barangayProfiling
-OJT repository
+OJT repository on GitHub
